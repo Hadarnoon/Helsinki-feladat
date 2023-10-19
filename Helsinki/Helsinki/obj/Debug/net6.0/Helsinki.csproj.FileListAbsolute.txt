@@ -1,0 +1,14 @@
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\bin\Debug\net6.0\Helsinki.exe
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\bin\Debug\net6.0\Helsinki.deps.json
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\bin\Debug\net6.0\Helsinki.runtimeconfig.json
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\bin\Debug\net6.0\Helsinki.dll
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\bin\Debug\net6.0\Helsinki.pdb
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\Helsinki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\Helsinki.AssemblyInfoInputs.cache
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\Helsinki.AssemblyInfo.cs
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\Helsinki.csproj.CoreCompileInputs.cache
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\Helsinki.dll
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\refint\Helsinki.dll
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\Helsinki.pdb
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\Helsinki.genruntimeconfig.cache
+C:\Users\C20OszlikT\source\repos\Helsinki\Helsinki\obj\Debug\net6.0\ref\Helsinki.dll
